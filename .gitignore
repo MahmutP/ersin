@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ERSIN Specific
+venv/
+logs/
+loot/
+stages/
+*.pyc
+__pycache__/
